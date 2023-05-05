@@ -31,3 +31,8 @@ Build the frontend:
 Implement forms for creating and updating notes.
 Implement a user interface for displaying and managing notes.
 Add styles and themes to make the app visually appealing.
+
+# Output
+
+![image](https://user-images.githubusercontent.com/95066409/236392719-6880ae98-a24c-4588-9e8a-cc6f22f16ce9.png)
+
