@@ -42,7 +42,7 @@ Add styles and themes to make the app visually appealing.
 
 ## Home or Frontpage
 
-![image](https://user-images.githubusercontent.com/95066409/236392719-6880ae98-a24c-4588-9e8a-cc6f22f16ce9.png)
+![image](https://user-images.githubusercontent.com/95066409/236404528-2f6ef3ad-88ea-400c-bfc4-4a139f45f8c3.png)
 
 ## FAQ's
 
