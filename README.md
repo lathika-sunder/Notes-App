@@ -46,17 +46,17 @@ Add styles and themes to make the app visually appealing.
 
 ## FAQ's
 
-![image](https://user-images.githubusercontent.com/95066409/236402743-a9972fe4-a8be-4b97-b237-6115ae11c8f5.png)
 ![image](https://user-images.githubusercontent.com/95066409/236402625-cfa78aaf-b560-404b-b9cb-f58940160926.png)
+![image](https://user-images.githubusercontent.com/95066409/236402743-a9972fe4-a8be-4b97-b237-6115ae11c8f5.png)
 
 ## Features
 
-![image](https://user-images.githubusercontent.com/95066409/236403054-655dfb43-0159-48cb-a9e2-5a24df4403c7.png)
 ![image](https://user-images.githubusercontent.com/95066409/236402932-f8157967-15b5-4d86-adb9-ea57f29e83e9.png)
+![image](https://user-images.githubusercontent.com/95066409/236403054-655dfb43-0159-48cb-a9e2-5a24df4403c7.png)
 
 
 ## Sign In or Sign Up
-![image](https://user-images.githubusercontent.com/95066409/236399418-d5940fa0-02c9-407a-9380-0f9a8613bc25.png)
+
 ![image](https://user-images.githubusercontent.com/95066409/236399859-997f9daf-8784-4aea-8d36-e2f6de54a315.png)
 
 
